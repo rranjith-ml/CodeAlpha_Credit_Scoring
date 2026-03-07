@@ -12,7 +12,23 @@ This project is developed as part of the CodeAlpha Machine Learning Internship.
 
 ---
 
+# 💳 AlphaCredit AI Scoring System
+This is a Machine Learning project that predicts creditworthiness using Logistic Regression.
+
+### 🚀 How to Run
+Click the button below to open the interactive UI in your browser:
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](YOUR_COLAB_LINK_HERE)
+
+### 📊 Project Features
+- **Gradio UI:** Interactive sliders for Age, Income, and Credit Score.
+- **Preprocessing:** Standard scaling for financial data.
+- **Metrics:** Accuracy, Precision, and ROC-AUC evaluation.
+
+
 ## 🚀 Technologies Used
+
+
 
 - Python
 - Pandas
